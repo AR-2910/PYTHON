@@ -29,8 +29,8 @@ During my Python learning journey, I've relied on various tools and technologies
 
 My Python learning experience wouldn't be complete without these valuable resources:
 
-- (https://www.youtube.com/watch?v=t8pPdKYpowI)
-- (https://www.learnpython.org/)
+- [Python Tutorial](https://www.youtube.com/watch?v=t8pPdKYpowI)
+- [Learn Python](https://www.learnpython.org/)
 - And various Library specific Docs.
 
 These resources have been instrumental in building my Python expertise.
