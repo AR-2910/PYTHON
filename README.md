@@ -14,7 +14,7 @@ Here is a list of some Python projects I've worked on to practice and apply my s
 2. **Inventory Analysis and Management** 
 3. **GitHub Discovery with API Integration**
 4. **Web Crawler Price Comparison Engine**
-5. **Machine Learning Based Project( Work In Progress )**
+5. **Machine Learning Based Project (Work In Progress)**
 
 These projects reflect my commitment to continuous learning and the application of Python in real-world scenarios.
 
@@ -29,8 +29,8 @@ During my Python learning journey, I've relied on various tools and technologies
 
 My Python learning experience wouldn't be complete without these valuable resources:
 
-- [Python Tutorial](https://www.youtube.com/watch?v=t8pPdKYpowI)
-- [Learn Python](https://www.learnpython.org/)
+- [Python Course - YouTube](https://www.youtube.com/watch?v=t8pPdKYpowI)
+- [Learn Python Docs](https://www.learnpython.org/)
 - And various Library specific Docs.
 
 These resources have been instrumental in building my Python expertise.
