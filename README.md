@@ -11,7 +11,7 @@ Python is a versatile and widely-adopted programming language celebrated for its
 Here is a list of some Python projects I've worked on to practice and apply my skills:
 
 1. **Goal Deadline Tracker** 
-2. **Inventory Analysis and Management** 
+2. **Inventory Analysis and Management System** 
 3. **GitHub Discovery with API Integration**
 4. **Web Crawler Price Comparison Engine**
 5. **Machine Learning Based Project (Work In Progress)**
