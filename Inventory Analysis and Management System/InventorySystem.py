@@ -2,7 +2,7 @@
 import openpyxl
 
 #Load the excel file
-excel=openpyxl.load_workbook("C:/Users/lenovo/OneDrive/Desktop/MAIT/3RD SEMESTER/python/learning/project2demofile.xlsx")
+excel=openpyxl.load_workbook("C:/Users/lenovo/OneDrive/Desktop/MAIT/3RD SEMESTER/python/learning/projectdemofile.xlsx")
 
 #Get the sheet 'page1'
 product_list=excel["page1"]
