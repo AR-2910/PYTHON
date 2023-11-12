@@ -13,7 +13,7 @@ Here is a list of some Python projects I've worked on to practice and apply my s
 1. **Goal Deadline Tracker** 
 2. **Inventory Analysis and Management System** 
 3. **GitHub Discovery with API Integration**
-4. **Web Crawler Price Comparison Engine**
+4. **Web Scraper Price Comparison Engine**
 5. **Machine Learning Based Project (Work In Progress)**
 
 These projects reflect my commitment to continuous learning and the application of Python in real-world scenarios.
