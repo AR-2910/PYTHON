@@ -64,8 +64,8 @@ def lowest_price(amazon_data,flipkart_data):
 
     return lowest_amazon,lowest_flipkart
 
-# Hard-coded product name for demonstration
-product_name="iphone"
+# Input product name , if none provided , default product "Iphone" chosen
+product_name=input("Enter Prorduct Name: ") or "iphone"
 
 amazon_data=scrape_amazon(product_name)  # Scrape Amazon for product information
 flipkart_data=scrape_flipkart(product_name)  # Scrape Flipkart for product information
