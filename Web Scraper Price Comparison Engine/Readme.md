@@ -26,7 +26,7 @@ The Web Scraper for Product Price Comparison is a Python program that extracts a
 
 3. The `lowest_price` function calculates and returns the lowest-priced item between Amazon and Flipkart.
 
-4. The script hard-codes a product name (e.g., "iphone") for demonstration purposes.
+4. The script takes input product name from the user, defaulting to "iphone" if none is provided.
 
 5. Amazon and Flipkart are scraped for product details using the defined functions.
 
