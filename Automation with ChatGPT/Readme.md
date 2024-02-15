@@ -45,7 +45,7 @@ The Automation with ChatGPT project aims to automate various tasks using OpenAI'
 - `filename`: The name of the file where the generated script or output will be saved.
 
 Example usage:
-- python automation.py "Generate a script to automatically segregate files into sub folders based on their file type" segregate_script.py
+- python automation.py "automatically segregate files into sub folders based on their file type" segregate_script.py
 
 ## Project Benefits:
 
