@@ -25,7 +25,7 @@ data_input = {
     "model": "gpt-3.5-turbo",
     "messages": [{
         "role": "user",
-        "content": f"write a python script for {args.askAI}. provide only code, no text"
+        "content": f"write a python script to {args.askAI}. provide only code, no text"
     }],
     "max_tokens": 100,  # Maximum number of tokens in the generated response
     "temperature": 0.5  # Creativity level of the response
