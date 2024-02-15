@@ -1,4 +1,4 @@
-# Project Name : Automation with ChatGPT
+# Project Name: Automation with ChatGPT
 
 ## Project Description:
 
