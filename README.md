@@ -14,7 +14,7 @@ Here is a list of some Python projects I've worked on to practice and apply my s
 2. **Inventory Analysis and Management System** 
 3. **GitHub Discovery with API Integration**
 4. **Web Scraper Price Comparison Engine**
-5. **Machine Learning Based Project (Work In Progress)**
+5. **Automation with ChatGPT**
 
 These projects reflect my commitment to continuous learning and the application of Python in real-world scenarios.
 
